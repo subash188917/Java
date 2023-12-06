@@ -6,6 +6,10 @@ public class Logi_Relational {
         boolean b=false;
         int c=10;
         int d=50;
+
+        System.out.println(!a);     //NOT ope
+        System.out.println(!b);
+
         System.out.println(c==d);   //equal
         System.out.println(c!=d);   //Not equal
 
